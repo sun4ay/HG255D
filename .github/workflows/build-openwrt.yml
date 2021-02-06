@@ -5,7 +5,7 @@
 # https://github.com/P3TERX/Actions-OpenWrt
 #=================================================
 
-name: Build OpenWrt
+name: hg255d OpenWrt
 
 on:
   repository_dispatch:
